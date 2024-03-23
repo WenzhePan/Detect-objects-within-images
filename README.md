@@ -11,4 +11,4 @@ excute command: java findImage inputImage.rgb object1.rgb object2.rgb...
 inputImage.rgb and object1.rgb..., those should be input with path.
 
 # Result
-![[Pasted image 20231009004445.png]]
+![Pasted image 20231009004445.png](https://github.com/WenzhePan/Detect-objects-within-images/blob/main/Pasted%20image%2020231009004445.png)
